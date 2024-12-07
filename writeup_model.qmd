@@ -1,0 +1,25 @@
+---
+title: "Final Project"
+author: "KJ WU, Carey Cui, XiaoTian Tang"
+date: today
+date-format: long
+format: 
+    html:
+        echo: false      
+        code: false      
+        toc: true        
+        output: true     
+engine: jupyter
+---
+
+```{python}
+```
+
+
+
+
+
+
+
+
+
