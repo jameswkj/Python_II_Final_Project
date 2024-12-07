@@ -1,11 +1,20 @@
 
+
+Writeup/writeup.html
+Writeup/.DS_Store
+.DS_Store
 Writeup/writeup_files/libs/bootstrap/bootstrap-icons.css
-Writeup/writeup_files/libs/bootstrap/bootstrap-5bdc1ec511977dd36301403cf8f4f68d.min.css
 Writeup/writeup_files/libs/bootstrap/bootstrap-icons.woff
+Writeup/writeup_files/libs/bootstrap/bootstrap.min.css
+Writeup/writeup_files/libs/bootstrap/bootstrap-5bdc1ec511977dd36301403cf8f4f68d.min.css
 Writeup/writeup_files/libs/bootstrap/bootstrap.min.js
 Writeup/writeup_files/libs/clipboard/clipboard.min.js
 Writeup/writeup_files/libs/quarto-html/anchor.min.js
 Writeup/writeup_files/libs/quarto-html/popper.min.js
+Writeup/writeup_files/libs/quarto-html/quarto-syntax-highlighting.css
+Writeup/writeup_files/libs/quarto-html/quarto.js
+Writeup/writeup_files/libs/quarto-html/tippy.css
+Writeup/writeup_files/libs/quarto-html/tippy.umd.min.js
 Writeup/writeup_files/libs/quarto-html/quarto-syntax-highlighting-2486e1f0a3ee9ee1fc393803a1361cdb.css
 Writeup/writeup_files/libs/quarto-html/quarto.js
 Writeup/writeup_files/libs/quarto-html/tippy.css
@@ -19,3 +28,4 @@ shiny/__pycache__/app_fancy.cpython-39.pyc
 shiny/app.py
 shiny/app_fancier.py
 shiny/app_fancy.py
+
